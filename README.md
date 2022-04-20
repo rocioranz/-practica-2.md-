@@ -7,7 +7,8 @@
 > [El ejército ruso atacó hoy nueve regiones ucranianas, en su mayoría estructuras militares, aeropuertos y aeródromos]( https://euroefe.euractiv.es/section/exteriores-y-defensa/news/rusia-lanza-la-guerra-contra-ucrania-y-recibe-la-condena-internacional/)
 > 
 ![](https://i.imgur.com/1eTkIIh.png)
-*Representación de la ofensiva rusa del día 24 de febrero, detalles sobre la estrategia y los ataques en diferentes puntos del país.*
+
+**Representación de la ofensiva rusa del día 24 de febrero, detalles sobre la estrategia y los ataques en diferentes puntos del país.**
 
 Tomando como base dicha información, procederé a redactar una noticia propia
 ## El presidente de Rusia, Vladimir Putin, comienza una ofensiva militar contra Ucrania
@@ -15,13 +16,13 @@ La pasada madrugada del 24 de febrero Rusia lanzó una operación militar a gran
 
 ![Ataque-de-Rusia-a-Kiev-Infografia-de-Agencia-EFE](https://user-images.githubusercontent.com/98759985/164242762-ccfd91f4-365d-4984-9563-a082e80574ef.jpg)
 
-*Representación de la llegada de Rusia a Kiev mediante tropas militares*
+**Representación de la llegada de Rusia a Kiev mediante tropas militares.**
 
 Su presidente, Vladimir Putin, **justificó la ofensiva bajo la la protección de las personas de los «abusos y del genocidio» de los que aseguró que son objeto por parte del Gobierno ucraniano desde hace ocho años**. Las tropas rusas atacaron los puntos que marca el mapa y, con la ayuda de soldados de Bielorrusia, aseguran que tuvieron lugar con artillería, equipos pesados y armas de tiro. Además, insisten en haber neutralizado la defensa antiaérea de Ucrania y haber destruido su infraestructura de bases aéreas.
 
 ![Poder-militar-de-Rusia-y-Ucrania-Infografia-de-Agencia-EFE-768x784](https://user-images.githubusercontent.com/98759985/164241621-38a11cb2-fcae-44e3-876e-742cc68a2ba9.jpg) 
 
-*Comparación del poder militar de Rusia y Ucrania.*
+**Comparación del poder militar de Rusia y Ucrania.**
 
 Con la decisión del presidente de Rusia, Vladimir Putin, de iniciar una operación militar contra Ucrania, se presenta un conflicto cuyo potencial no admite comparación ni en número de efectivos ni en cantidad y calidad de armamento y equipos bélicos entre ambas naciones. Esta infografía contiene una comparación del poderío militar de ambas naciones.
 
@@ -33,7 +34,7 @@ Con la decisión del presidente de Rusia, Vladimir Putin, de iniciar una operaci
 
 ![Fuerzas-de-disuasion-de-Rusia-Infografia-Agencia-EFE](https://user-images.githubusercontent.com/98759985/164243165-557e3e24-e1d6-40a1-9b2d-3f24fdd2c764.jpg)
 
-Representación de las fuerzas de disuasión rusas, incomparables con las ucranianas.
+**Representación de las fuerzas de disuasión rusas, incomparables con las ucranianas.**
 
 El progreso de la invasión fue rápido. Rusia comenzó el ataque lanzando misiles contra la infraestructura ucraniana. Avanzó el ejército terrestre hasta llegar a Donetsk y Lugansk, donde se reconoció la independencia de las autoproclamadas repúblicas separatistas. Un día después las tropas rusas entraron en Kiev, la capital de Ucrania, por el distrito de Obolón. Aún continúan los ataques en distintos puntos del país. 
 
@@ -45,5 +46,5 @@ Otra de las respuestas de Ucrania fue pedir el pasado 24 de febrero a Turquía q
 
 ![Turquia-control-del-mar-Negro-Infografia-de-la-guerra-de-Ucrania-Agencia-EFE-1004x1024](https://user-images.githubusercontent.com/98759985/164242563-9833a5aa-4612-4c71-991d-96ac02d910bf.jpg)
 
-*Control marítimo sobre las fronteras*
+**Control marítimo sobre las fronteras.**
 
