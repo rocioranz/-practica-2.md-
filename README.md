@@ -6,7 +6,7 @@
 ### Para realizar este ejercicio, me he basado en una infografía incluida en la noticia dada por EFE Internacional sobre la ofensiva de Rusia a Ucrania. Antecediendo la imagen podemos leer la siguiente frase:  
 > [El ejército ruso atacó hoy nueve regiones ucranianas, en su mayoría estructuras militares, aeropuertos y aeródromos]( https://euroefe.euractiv.es/section/exteriores-y-defensa/news/rusia-lanza-la-guerra-contra-ucrania-y-recibe-la-condena-internacional/)
 ![](https://i.imgur.com/1eTkIIh.png)
-Representada la ofensiva rusa del día 24 de febrero.
+Representación de la ofensiva rusa del día 24 de febrero, detalles sobre la estrategia y los ataques en diferentes puntos del país.
 
 Tomando como base dicha información, procederé a redactar una noticia propia
 ## El presidente de Rusia, Vladimir Putin, comienza una ofensiva militar contra Ucrania
