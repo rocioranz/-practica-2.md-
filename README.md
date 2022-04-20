@@ -8,7 +8,7 @@
 ![](https://i.imgur.com/1eTkIIh.png)
 
 **Tomando como base dicha información, procederé a redactar una noticia propia**
-# El presidente de Rusia, Vladimir Putin, comienza una ofensiva militar contra Ucrania
+## El presidente de Rusia, Vladimir Putin, comienza una ofensiva militar contra Ucrania
 La pasada madrugada del 24 de febrero Rusia lanzó una operación militar a gran escala contra Ucrania, la cual fue condenada por prácticamente toda la comunidad internacional. Su presidente, Vladimir Putin, justificó la ofensiva bajo la la protección de las personas de los «abusos y del genocidio» de los que aseguró que son objeto por parte del Gobierno ucraniano desde hace ocho años. Las tropas rusas atacaron los puntos que marca el mapa y, con la ayuda de soldados de Bielorrusia, aseguran que tuvieron lugar con artillería, equipos pesados y armas de tiro. Además, insisten en haber neutralizado la defensa antiaérea de Ucrania y haber destruido su infraestructura de bases aéreas.
 
 > «Los medios de defensa antiaérea de las Fuerzas Armadas de Ucrania han sido neutralizados. La infraestructura de las bases aéreas del Ejército ucraniano está fuera de servicio», señaló el Ministerio de Defensa ruso en un comunicado citado por a agencia lInterfax.
